@@ -1,7 +1,7 @@
 
 
 //var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-var test =require("./js/apis/test.js");
+var test =require("js/apis/test.js");
 
 test.getAnswer().then(res=>{alert(res)}).catch(err=>{
     alert(err.message)
