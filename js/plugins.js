@@ -6,5 +6,6 @@ var $plugins =
 {"name":"Bfcode_MainMenu","status":true,"description":"","parameters":{}},
 {"name":"Bfcode_Login","status":true,"description":"","parameters":{}},
 {"name":"AXY_TitleMenu","status":true,"description":"v1.00 Display Multiple Menu in Title Screen.","parameters":{"DisplayJumpToMap":"false","JumpToMapText":"","JumpToMapId":"","JumpToMapSwitchId":"","DisplayExit":"true","ExitText":"退出游戏","MaxCols":"4","WindowWidth":"800","X":"(Graphics.boxWidth - this.width) / 2","Y":"Graphics.boxHeight - this.height - 96","WindowSkin":"Window","Align":"center","TextColor":"white"}},
-{"name":"partice","status":true,"description":"标题粒子效果","parameters":{"file":"particle","num":"20","xSpeed":"1","ySpeed":"1","rotation":"0.01"}}
+{"name":"partice","status":true,"description":"标题粒子效果","parameters":{"file":"particle","num":"20","xSpeed":"1","ySpeed":"1","rotation":"0.01"}},
+{"name":"MND_SkipLoadError","status":true,"description":"以弹窗显示与插件、图片、声音文件缺失有关的错误停息，并尝试忽略错误继续游戏。(v1.0.2)","parameters":{}}
 ];
