@@ -1,0 +1,10 @@
+[
+null,
+null,
+{"id":2,"expanded":false,"name":"圣西罗球场内","order":1,"parentId":0,"scrollX":728,"scrollY":427.1111111111111},
+{"id":3,"expanded":false,"name":"圣西罗球场外","order":2,"parentId":0,"scrollX":728,"scrollY":427.1111111111111},
+{"id":4,"expanded":false,"name":"米兰之家","order":3,"parentId":0,"scrollX":728,"scrollY":427.1111111111111},
+{"id":5,"expanded":false,"name":"维斯马拉","order":4,"parentId":0,"scrollX":728,"scrollY":427.1111111111111},
+{"id":6,"expanded":false,"name":"米兰大巴内","order":5,"parentId":0,"scrollX":728,"scrollY":427.1111111111111},
+{"id":7,"expanded":false,"name":"飞机舱内","order":6,"parentId":0,"scrollX":728,"scrollY":427.1111111111111}
+]
